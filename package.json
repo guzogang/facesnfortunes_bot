@@ -1,0 +1,20 @@
+{
+  "name": "facesnfortunes_bot",
+  "version": "1.0.0",
+  "description": "an ascii faces and cookies fortunes bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olu Adekore",
+  "license": "ISC",
+  "keywords": [
+    "ascii",
+    "faces",
+    "bot",
+    "cookies",
+    "fortunes",
+    "quotes",
+    "smileys"
+  ]
+}
